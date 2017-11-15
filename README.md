@@ -248,6 +248,8 @@ To run with pre-trained model, connect to ROS robot, bring up roscore, open came
 
 
 Check out this quick demo on Youtube. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMKxE6UjoCY" frameborder="0" allowfullscreen></iframe>
 		
 
 
