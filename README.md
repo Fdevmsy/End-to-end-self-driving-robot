@@ -247,11 +247,6 @@ To run with pre-trained model, connect to ROS robot, bring up roscore, open came
 `python prerunner.py`
 
 
-<<<<<<< Updated upstream
-Check out this quick demo on Youtube. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bMKxE6UjoCY" frameborder="0" allowfullscreen></iframe>
-=======
 Check out this quick demo on [Youtube](https://www.youtube.com/watch?v=bMKxE6UjoCY#action=share). 
 
 ![](4.png)
